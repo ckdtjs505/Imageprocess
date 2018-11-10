@@ -1,0 +1,12 @@
+canvas{
+  border:1px soild #d3d3d3;
+  border-radius: 5px;
+}
+h1{
+  text-align: center;
+}
+
+div{
+  text-align: center;
+  border:2px soild black;
+}
